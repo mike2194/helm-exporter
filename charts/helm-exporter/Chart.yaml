@@ -7,7 +7,11 @@ appVersion: latest
 home: https://github.com/sstarcher/helm-exporter
 sources:
 - https://github.com/sstarcher/helm-exporter
+- https://github.com/mike2194/helm-exporter
 maintainers:
 - name: sstarcher
   email: shane.starcher@gmail.com
   url: https://shanestarcher.com
+- name: Mike Nichols (Paxos)
+  email: mnichols@paxos.com
+  url: https://github.com/mike2194
