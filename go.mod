@@ -8,12 +8,15 @@ require (
 	github.com/knadh/koanf v1.2.4
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/orcaman/concurrent-map v0.0.0-20210501183033-44dafcb38ecc
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sirupsen/logrus v1.8.1
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.7.0
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
+)
+
+require (
 	cloud.google.com/go v0.97.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
